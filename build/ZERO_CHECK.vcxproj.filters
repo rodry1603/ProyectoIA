@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Rodrigo Gomez\Documents\IA\mnist_perceptron\build\CMakeFiles\215f6a93a9705ffa1b86ed727df5136a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1D858384-A191-3FC2-B939-A7CCEEDBEB46}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

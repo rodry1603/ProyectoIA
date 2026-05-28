@@ -1,0 +1,3 @@
+C:/Users/Rodrigo Gomez/Documents/IA/mnist_perceptron/build/CMakeFiles/mnist_perceptron.dir
+C:/Users/Rodrigo Gomez/Documents/IA/mnist_perceptron/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Rodrigo Gomez/Documents/IA/mnist_perceptron/build/CMakeFiles/ZERO_CHECK.dir
